@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(223, 255, 255);
+}
+body h1{
+    background-color: red;
+    text-align: center;
+}
+body2 h1{
+    background-color: blue;
+    color: cyan;
+    text-align: center;
+
+}
+
+body2 h2{
+    background-color: darkcyan;
+    color: beige;
+    text-align: center;
+
+}
+
+body3 h2{
+    background-color: orange;
+    color:indigo;
+    text-align: center;
+
+}
+
+body4 h2{
+    background-color: paleturquoise;
+    color: darkmagenta;
+    text-align: center;
+
+}
